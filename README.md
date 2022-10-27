@@ -1,4 +1,4 @@
-# vCard - Personal portfolio
+# PPP - Personal portfolio
 
 PPP is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
